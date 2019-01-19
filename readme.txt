@@ -1,3 +1,3 @@
-Hello world;
+﻿Hello world;
 Git is free software.
-GIt is very good！
+Git is free software distributed under the GPL.
